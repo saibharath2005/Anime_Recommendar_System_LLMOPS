@@ -1,7 +1,7 @@
 # Anime Recommender System – LLMOps Project
 
 <p align="center">
-  <img src="workflow.png" width="900"/>
+  <img src="Workflow.png" width="900"/>
 </p>
 
 ## For Deployment Purpose
