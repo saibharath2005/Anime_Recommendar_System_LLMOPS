@@ -1,3 +1,10 @@
+# Anime Recommender System – LLMOps Project
+
+<p align="center">
+  <img src="workflow.png" width="900"/>
+</p>
+
+## For Deployment Purpose
 ### 1. Initial Setup
 
 - **Push code to GitHub**  
