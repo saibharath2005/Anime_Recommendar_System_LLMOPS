@@ -4,4 +4,3 @@ ANIME_RECOMMENDER.egg-info/
 .env
 __pycache__/
 *.pyc
-chroma_db/
